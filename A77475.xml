@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief vindication of the Royal Society from the late invectives and misrepresentations of Mr. Henry Stubbe: / By a well-wisher to that noble foundation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77475</idno>
+            <idno type="STC">Wing B4656A</idno>
+            <idno type="STC">ESTC R233727</idno>
+            <idno type="EEBO-CITATION">45504356</idno>
+            <idno type="OCLC">ocm 45504356</idno>
+            <idno type="VID">171656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171656)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2584:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief vindication of the Royal Society from the late invectives and misrepresentations of Mr. Henry Stubbe: / By a well-wisher to that noble foundation.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Martin, at the Bell without Temple-Barr,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped with some loss of print.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stubbe, Henry, 1632-1676. --  Campanella revived, or, An enquiry into the history of the Royal Society.</term>
+               <term>Royal Society (Great Britain) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171656:1" rendition="simple:additions"/>
+            <p>A BRIEF VINDICATION OF THE Royal Society: From the late <hi>Invectives</hi> and <hi>Miſ-repre<g ref="char:EOLhyphen"/>ſentations</hi> of Mr. <hi>Henry Stubbe:</hi>
+            </p>
+            <p>By a Well-wiſher to that Noble Foundation.</p>
+            <figure>
+               <q>DVM PREMOR <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>TTOLLO</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Martin,</hi> at the <hi>Bell</hi> without <hi>Temple-Barr.</hi> 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171656:2"/>
+            <pb n="1" facs="tcp:171656:2"/>
+            <head>A BRIEF VINDICATION OF THE Royal Society.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F it were not that ſome worthy Perſons, no better informed than Mr. <hi>Stubbe</hi> ſeems to be, of the Deſign and Buſineſs of the <hi>Royal Society,</hi> which he hath lately en<g ref="char:EOLhyphen"/>deavoured in no leſs than four ig<g ref="char:EOLhyphen"/>norant and railing Pamphlets to wound through the ſides of ſome particular perſons, might be in<g ref="char:EOLhyphen"/>duced to have a ſiniſter Opinion of that Illuſtrious Body, eſtabliſhed by his Moſt Excellent Majeſty that now is, for the Improvement of Noble and uſeful Knowledge, I ſhould altogether diſdain even to touch ſuch diſingenuous and foul papers, as thoſe, which this virulent pen hath of late troubled the Preſs with, are juſtly eſteemed to be by all truly Generous and Conſiderate men, both Domeſticks and Forainers, who are acquainted with the
+<pb n="2" facs="tcp:171656:3"/>true State of what he doth moſt maliciouſly and undeſervedly labour to defame.</p>
+            <p>Since therefore it is neceſſary that ſomething ſhould be ſaid for the ſake of thoſe, that may, upon the reading of ſuch Libelling Pamphlets, frame to themſelves wrong conceptions of that Royal Foundation, ſo immorally aſſailed by this petulant writer, I ſhall endeavour in a ſhort Vindication to repreſent the true End and Work of that In<g ref="char:EOLhyphen"/>ſtitution, and by doing ſo, manifeſt to the World, that this Calumniator hath with all his late Scribling done nothing but filled a great deal of waſte paper, with a lively Character of his own perverſe, vain, and turbulent <hi>Genius</hi> revi<g ref="char:EOLhyphen"/>ving the Memory of his former wayes, and con<g ref="char:EOLhyphen"/>firming the opinion had of him before, of his diſ<g ref="char:EOLhyphen"/>compoſed and malitious nature.</p>
+            <p>I muſt therefore ſay, that, if Envy and Malice, and other curſed Motives had not blinded him, he would have been ſo far from reviling one of the Nobleſt Eſtabliſhments that ever was erected by any Prince, that he would have found, as well as all conſidering and ſober men do, that the Aime and Purpoſe of the <hi>Royal Society</hi> is not any thing at all of what he taketh ſo much pains and uſeth ſo much craft to inſinuate, To eſpouſe or reject this or that ſect of Philoſophers, or to meddle with Religion, Divinity, Medical Practiſes; much leſs to endanger the Religion eſtabliſhed in <hi>England,</hi> the Monarchical Government, the two famous Univer<g ref="char:EOLhyphen"/>ſities,
+<pb n="3" facs="tcp:171656:3"/>the Received Education, and the Profeſſi<g ref="char:EOLhyphen"/>on on of Phyſick (all which he goes about in thoſe vile Books, to bear the World in hand they intend to do;) but that their deſires and attempts are to in<g ref="char:EOLhyphen"/>creaſe Knowledge, and to diſcover truth, where<g ref="char:EOLhyphen"/>ever it be in Natural, Mechanical and Mathema<g ref="char:EOLhyphen"/>tical things, to help Old Inventions, and encou<g ref="char:EOLhyphen"/>rage New ones, and all for the raiſing and enob<g ref="char:EOLhyphen"/>ling the Dignity of Humane Nature, and the ſerv<g ref="char:EOLhyphen"/>ing of Mankind.</p>
+            <p>And ſince they are perſwaded with the Excel<g ref="char:EOLhyphen"/>lent Lord <hi>Verulam,</hi> and many other judicious Mo<g ref="char:EOLhyphen"/>derns, that hitherto all ſorts of Naturaliſts have been too haſty in eſtabliſhing Syſtems of Natural Philoſophy, before they had laid a ſolid and com<g ref="char:EOLhyphen"/>prehenſive Foundation to build upon; they have eſteemed it a laudable and uſeful Undertaking to endeavour, that all induſtrious and ſagacious In<g ref="char:EOLhyphen"/>quirers of Nature every where may conjoyn their Reſearches, ſtudies, and labours, to examine what hath been performed hitherto, to retain what will endure the Teſt, and to add thereunto what they can, in order to the compoſing a faithful Hi<g ref="char:EOLhyphen"/>ſtory of Nature and Art, that may contain a com<g ref="char:EOLhyphen"/>petent ſtock of Obſervations and Experiments, frequently and carefully made by Intelligent and Cautious men, which may ſerve for a Magazeen of Materials, of which hereafter, by duly conſide<g ref="char:EOLhyphen"/>ring the whole, and comparing all the parts toge<g ref="char:EOLhyphen"/>ther, may be raiſed (if poſſible) ſuch a Syſteme of
+<pb n="4" facs="tcp:171656:4"/>natural Philoſophy, as may give a rational Accompt of the Appearances and Effects of Nature, and en<g ref="char:EOLhyphen"/>able
+men to infer from confronted Cauſes and Ef<g ref="char:EOLhyphen"/>fects ſuch conſequences, as may conduce to the greater benefit and ampler accommodations of Hu<g ref="char:EOLhyphen"/>mane life.</p>
+            <p>This then being the true Deſign of this <hi>Royal Establiſhment,</hi> and the ſole Proſpect of thoſe that are ingaged therein, it alone is able to ſcatter that heap of unſavory talk put together by this vain Writer; wherein tis palpable, that he never would underſtand the true Ground and End of this Inſtitution, and that in all his Airy and Empty diſcourſes, where he ſtrikes at the. <hi>Royal Society,</hi> he doth but fight with his own fancy and ſhadow.</p>
+            <p>For whoſoever is impartial, and will but give himſelf the leiſure to conſider the Nature of ſuch a Deſign, and the happy Effects which its ſe<g ref="char:EOLhyphen"/>rious proſecution may have, ſuch an one will ſoon conclude, that what ever is ſaid in thoſe Far<g ref="char:EOLhyphen"/>dles, as far as it tends to detract from the ſaid <hi>So<g ref="char:EOLhyphen"/>ciety,</hi> contains nothing but ſpiteful miſrepreſentati<g ref="char:EOLhyphen"/>ons and calumnies, poured out on purpoſe to try whether ſomething of it Would not ſtick with Credulous Men, to whom the Actings and Deſign of the <hi>R. Society</hi> are not known.</p>
+            <p>O therwiſe who is there, I pray, that being in his right wits, can conceive, that ſuch an Inſtitution, and ſuch Studies can tend to undermine the <hi>Pro<g ref="char:EOLhyphen"/>teſtant
+<pb n="5" facs="tcp:171656:4"/>Religion,</hi> whoſe Deſign, Buſineſs, and Glo<g ref="char:EOLhyphen"/>ry it is, to encreaſe Light and Knowledg? Or that it can (as is ſuggeſted by this pretended Champion of the Church of <hi>England,</hi> known to be indifferent to all Religions) introduce Pope<g ref="char:EOLhyphen"/>ry, which wants that Latitude of purſuing the ſenſe of the Motto, <hi>Nullius in Verba,</hi> choſen by this R. Corporation.</p>
+            <p>Who can believe, that it endangers <hi>Monar<g ref="char:EOLhyphen"/>chy</hi> (which formerly this Railer hath been ſhrewdly ſuſpected to hate) without calling in queſtion the Prudence of one of the Wiſeſt and moſt Potent Monarchs in the world; that hath incorporated it by his Royal Charter, and by doing ſo, encreaſed his Renown abroad to admiration (witneſs ſeveral Engliſh Ambaſſadors, and other publick Miniſters, innumerable Travellers, and abundance of Letters, written from all parts) and added alſo to his ſingular Luſter at home among all thoſe that know what value to put upon Vir<g ref="char:EOLhyphen"/>tue and Knowledge? And how ſhall this be ſaid without throwing dirt upon thoſe Eminent and Illuſtrious Prelates, Nobles, Officers of State, and other Loyal and Learned Perſons of all ſorts, who have Honoured the Regiſter of the <hi>Royal So<g ref="char:EOLhyphen"/>ciety</hi> with the ſubſcription of their Names, after their Royal Founder, his Royal Highneſs, his Highneſs Prince <hi>Rupert,</hi> and one of the Dukes of <hi>Brunſwick</hi> and <hi>Luneburg.</hi>
+            </p>
+            <p>Again, who can affirm without a front of Braſs,
+<pb n="6" facs="tcp:171656:5"/>
+               <hi>cation of Youth?</hi> Whereas it is evident, that they intermeddle not with any ſuch thing; but if they ſhould have any influence upon it, it can be none other, but to render it more <hi>Manly,</hi> and more <hi>Polite,</hi> in regard that this <hi>Society</hi> conſiſts of many of the beſt Extraction and Breeding, No<g ref="char:EOLhyphen"/>blemen, Gentlemen, Travellers, Perſons that have ſtudied Men, and converſed with Things; Know<g ref="char:EOLhyphen"/>ing in the moſt Solid and moil Uſeful parts of Knowledge; ſuch as are the mixt Mathematiques, Natural Philoſophy, Chymiſtry, Anatomy, Phy<g ref="char:EOLhyphen"/>ſick, Mechanical Arts, and Practices: Of which perſons there are no ſuch Deſerters, as this Male<g ref="char:EOLhyphen"/>volent Writer goes about moſt falſly to per<g ref="char:EOLhyphen"/>ſwade.</p>
+            <p>Who can truly ſay, that this <hi>Society</hi> is prejudi<g ref="char:EOLhyphen"/>cial to the two great <hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi> of this King<g ref="char:EOLhyphen"/>dom; conſidering that it cannot be denyed, that the afore-mentioned Sciences and Studies, which are the work of the <hi>Royal Society,</hi> are both high<g ref="char:EOLhyphen"/>ly Noble, and exceeding neceſſary for the ſeve<g ref="char:EOLhyphen"/>ral Profeſsions of the World? And though per<g ref="char:EOLhyphen"/>haps they be not the chief buſineſs of thoſe Il<g ref="char:EOLhyphen"/>luſtrious Nurſeries of all Learning, where the Youth of the Kingdom is fitted for the ſervice of the Church and State, yet they are counte<g ref="char:EOLhyphen"/>nanced there, and purſued within their walls by ſome of their moſt worthy Members, as far as other Stu<g ref="char:EOLhyphen"/>dies and Exerciſes, concerning Languages, Logick, Hiſtory, Divinity, Law, <hi>&amp;c.</hi> will permit. It is
+<pb n="7" facs="tcp:171656:5"/>evident that the <hi>Royal Society</hi> is ſo far from de<g ref="char:EOLhyphen"/>rogating any thing from them in that Learning, which they are chiefly addicted to, that the ſame is by them <hi>ſuppoſed,</hi> or rather <hi>implyed,</hi> and made good uſe of, as being very neceſſary rightly to apprehend and to compare things that are exa<g ref="char:EOLhyphen"/>mined, and performed amongſt them. Beſides that the Experimental Operations, inſiſted upon by that Company, are a further improvement of ſome of the Academical Studies, and an Applica<g ref="char:EOLhyphen"/>tion of them to publick uſes.</p>
+            <p>Again, who can rationally eſteem? that that So<g ref="char:EOLhyphen"/>ciety is detrimental to the <hi>Profeſsion of Phyſick,</hi> which is built upon, and can by no ſurer way be advanced, than by good Obſervations and Experi<g ref="char:EOLhyphen"/>ments; he being certainly the ableſt Phyſitian that hath improved himſelf by the Nobleſt and Certaineſt of them? And as to the Practice of Phyſick, that Society doth not at all interfere with it; they neither pretending to judge of Di<g ref="char:EOLhyphen"/>ſeaſes, nor ſetting Rules for it, nor preſcribing or adminiſtring Medicines, but only doing what they may, upon occaſion, to encreaſe the ſtock Medical, by diſcovering more and more of the Se<g ref="char:EOLhyphen"/>crets of Nature; which as it tends to enlarge the Power and Empire of Man over other Crea<g ref="char:EOLhyphen"/>tures, ſo it may particularly contribute to ſuggeſt to Phyſitians (of whom many very eminent for Learn<g ref="char:EOLhyphen"/>ing and Practice, are of the chief inquirers, con<g ref="char:EOLhyphen"/>ſtantly remaining in this Society) a more ample
+<pb n="6" facs="tcp:171656:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:171656:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:171656:7"/>matter both to preſerve, and to recover the Health of Man; for the doing of which none will be ma<g ref="char:EOLhyphen"/>ligned by any but him that is an Enemy to Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>And as the Fellows of the <hi>Royal Society</hi> make it their buſineſs to render themſelves, as much as in them is, ſerviceable to all; ſo they do not aſ<g ref="char:EOLhyphen"/>ſume to themſelves any Diſcoveries or Inventions of others. And if any ſuch ſhould, by this or that particular Member, perhaps leſs knowing in the Hiſtory of ſuch things, be attributed to them, poſ<g ref="char:EOLhyphen"/>ſibly out of an exceſs of Affection, which may be accompanied even with a belief of the Truth, as to what is thus aſcribed; yet is the Society ſo juſt, as not to own any thing more than is their due: and their Modeſty is ſuch, to my know<g ref="char:EOLhyphen"/>ledge, that the Body it ſelf pretends hitherto to no more but this; That they have begun to re<g ref="char:EOLhyphen"/>move ſome rubbiſh; to lay in ſome Materials (and thoſe yet unhewn and unapproved) and to put ſome things in order for the Building, by making Tryals and Obſervations of ſeveral kinds in <hi>pub<g ref="char:EOLhyphen"/>lick,</hi> by encouraging and directing ſome of their number to do the like in <hi>private;</hi> and by exami<g ref="char:EOLhyphen"/>ning, improving, and carrying on of ſome things, which others had ſet upon before them, either at home or abroad. And therefore as none, not the very Spirit of Calumny, nay, even Mr. <hi>Stubbe</hi> himſelf, can poſsibly have the impudence to blame their Deſigne, as it is above declared; ſo
+<pb n="9" facs="tcp:171656:7"/>none can juſtly charge them with any Arrogance; ſince they, as a Body, aſſume nothing to them<g ref="char:EOLhyphen"/>ſelves, but what hath been juſt now related, and ſpecified.</p>
+            <p>To which, I think, I have right to add, that they need nor be very ſolicitous to give particular ſatisfaction to Impertinent and Captious Inqui<g ref="char:EOLhyphen"/>rers into their proceedings, in regard they are a Body made up of meet Volunteers, that have en<g ref="char:EOLhyphen"/>gaged themſelves generouſly and freely to promote the Deſigne above-mentioned, and therefore have no obligation at all to give an account to any, but His Sacred Majeſty their Founder and Patron, of their performances, which they have hitherto carried on at the Expence of their own purſe, and hope to continue (notwithſtanding the diſ<g ref="char:EOLhyphen"/>mall Auguryes of this Scrich-owle) for the increaſe of the Honour of this Great Nation, and the gene<g ref="char:EOLhyphen"/>ral benefit of Mankind.</p>
+            <p>And this, I think, may ſuffice, both to inform all Candid Men of the Truth, and with all to ſhame (if he be not paſt ſhame) this Hectoring Writer, for having ſo groundleſsly and uncivilly attacqued many of the moſt Noble, and the moſt Intelligent and Vertuous of his own Country-men; who certainly will be aſhamed to own ſuch a Ranter for an Engliſh man, for all the ſhew he makes of petulant wit, and ſcraps of crabbed learning.</p>
+            <p>If he ſhould ſay, That I have paſſed by the Ar<g ref="char:EOLhyphen"/>guments, he hath produced to ſupport his Preten<g ref="char:EOLhyphen"/>ces;
+<pb facs="tcp:171656:8"/>I ſhall boldly anſwer, that I had no reaſon to value them, or to trouble the Reader with a Re<g ref="char:EOLhyphen"/>hearſal and particular Refutation of them (which perhaps will be done ſo as to make his heart ake, by thoſe whom he hath particularly aſſailed) con<g ref="char:EOLhyphen"/>ſidering that the things, repreſented by me, being onely weighed, whatever he hath alledged will fall to the ground of it ſelf, as being propped up by nothing, but Malice, Envy, Calumnies, vain Surmiſes, and Crafty Miſ-repreſentations of the Un<g ref="char:EOLhyphen"/>dertaking and Actions of that <hi>Society</hi> I am plead<g ref="char:EOLhyphen"/>ing for; which hath the Applauſe of Diſcreet and Intelligent men, both at home and abroad, as hath been already repreſented, and can be made out by Scores of Letters from divers of the moſt emi<g ref="char:EOLhyphen"/>nent Perſons in Learning and thoſe forementioned Studies, that are in <hi>Europe:</hi> Which gives me ſuffi<g ref="char:EOLhyphen"/>cient ground to hope and ominate, that this <hi>Royal Eſtabliſhment</hi> will thrive and flouriſh, notwithſtand<g ref="char:EOLhyphen"/>ing the miſchievous project for its deſtruction, ai<g ref="char:EOLhyphen"/>med at by this Mercenary and Vile Rhapſodiſt. However, the reſt abundantly ſatisfyed in their good intentions, and endeavours, ſtopping the mouths of all ſuch malignant Calumniators as him<g ref="char:EOLhyphen"/>ſelf, with that <hi>Heroick</hi> ſaying,
+<q>
+                  <l>Virtus repulſae neſcia ſordidae</l>
+                  <l>Intamina is ſulget honoribus.</l>
+               </q>
+            </p>
+            <p>And that other, <q>Virtutem videant intabeſcánt<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> reticta.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
